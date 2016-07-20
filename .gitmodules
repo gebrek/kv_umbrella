@@ -1,0 +1,3 @@
+[submodule "apps/kv"]
+	path = apps/kv
+	url = git@github.com:ovid-nis/kv.git
